@@ -1,3 +1,27 @@
 <resources>
+
     <string name="app_name">Mifsud CS 408 Lab #1B Rock-Paper-Scissors</string>
+    <string name="lineOne">Rock, Paper, Scissors</string>
+    <string name="lineTwo">Choose a weapon</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="playerScore">Player: </string>
+    <string name="computerScore">Computer: </string>
+    <string name="playerChoice">Your choice: </string>
+    <string name="compChoice">Computer\'s Choice: </string>
+    <string name="playerWins">You Win!</string>
+    <string name="compWins">Computer Wins!</string>
+    <string name="result">Result:</string>
+    <string name="tie">Tie!</string>
+    <string name="rockSmashesScissors">Rock smashes Scissors!</string>
+    <string name="paperCoversRock">Paper covers Rock!</string>
+    <string name="scissorsCutsPaper">Scissors cuts Paper!</string>
+
+
+    <string-array name="weapons">
+        <item>Rock</item>
+        <item>Paper</item>
+        <item>Scissors</item>
+    </string-array>
 </resources>
